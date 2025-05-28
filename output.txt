@@ -1,31 +1,31 @@
 Recent Research:
 
+Impact of generative artificial intelligence on the professional qualities curriculum and reflection essays during physician training.
+https://pubmed.ncbi.nlm.nih.gov/40434153/
+
 ChatGPT and Google Gemini are Clinically Inadequate in Providing Recommendations on Management of Developmental Dysplasia of the Hip Compared to American Academy of Orthopaedic Surgeons Clinical Practice Guidelines.
 https://pubmed.ncbi.nlm.nih.gov/40433583/
 
-Modeling Precision Feedback Knowledge for Healthcare Professional Learning and Quality Improvement.
-https://pubmed.ncbi.nlm.nih.gov/40417586/
+Identification and validation of tissue-based gene biomarkers for acute intestinal graft-versus-host disease(AIGVHD).
+https://pubmed.ncbi.nlm.nih.gov/40433377/
 
-Exploring Filipino Medical Students' Attitudes and Perceptions of Artificial Intelligence in Medical Education: A Mixed-Methods Study.
-https://pubmed.ncbi.nlm.nih.gov/40384805/
+A Primer on Large Language Models (LLMs) and ChatGPT for Cardiovascular Healthcare Professionals.
+https://pubmed.ncbi.nlm.nih.gov/40433202/
 
-Navigating the AI Revolution in Medicine-Adopting Strategies for Medical Education.
-https://pubmed.ncbi.nlm.nih.gov/40353035/
+Performance of Artificial Intelligence in Addressing Questions Regarding the Management of Pediatric Supracondylar Humerus Fractures.
+https://pubmed.ncbi.nlm.nih.gov/40432855/
 
-Development of a machine learning model to classify polycystic ovarian syndrome.
-https://pubmed.ncbi.nlm.nih.gov/40331559/
+Veterans Traumatic Brain Injuries and Neurosurgical Challenges: A Narrative Review.
+https://pubmed.ncbi.nlm.nih.gov/40432705/
 
-Advanced computational tools, artificial intelligence and machine-learning approaches in gut microbiota and biomarker identification.
-https://pubmed.ncbi.nlm.nih.gov/40303946/
+Insights Into the Future: Assessing Medical Students' Artificial Intelligence Readiness - A Cross-Sectional Study at Kerman University of Medical Sciences (2022).
+https://pubmed.ncbi.nlm.nih.gov/40432697/
 
-Update on the Role of Imaging in the Diagnosis, Staging, and Prognostication of Gallbladder Cancer.
-https://pubmed.ncbi.nlm.nih.gov/40297115/
+Advancements in Biomarkers for Early Detection and Risk Stratification of Cardiovascular Diseases-A Literature Review.
+https://pubmed.ncbi.nlm.nih.gov/40432692/
 
-Radiologists' perceptions and readiness for integrating artificial intelligence in diagnostic imaging: A survey-based study.
-https://pubmed.ncbi.nlm.nih.gov/40230922/
+YOLO-TARC: YOLOv10 with Token Attention and Residual Convolution for Small Void Detection in Root Canal X-Ray Images.
+https://pubmed.ncbi.nlm.nih.gov/40431831/
 
-Current trends in pharmaceutical industry: Post -CoVid-19 pandemic effects.
-https://pubmed.ncbi.nlm.nih.gov/40230918/
-
-Heterogeneous Brain Atrophy Sites in Anxiety Disorders Map to a Common Brain Network.
-https://pubmed.ncbi.nlm.nih.gov/40226739/
+Using Masked Image Modelling Transformer Architecture for Laparoscopic Surgical Tool Classification and Localization.
+https://pubmed.ncbi.nlm.nih.gov/40431812/

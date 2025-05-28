@@ -10,7 +10,7 @@ async function run() {
 
   // Go to the target URL
   await page.goto(
-    "https://pubmed.ncbi.nlm.nih.gov/?term=artificial+intelligence+in+medical+education&filter=years.2022-2024&sort=date"
+    "https://pubmed.ncbi.nlm.nih.gov/?term=artificial+intelligence+in+medical+education&filter=years.2022-2026&sort=date"
   );
 
   // Wait for the relevant elements to appear on the page
