@@ -1,0 +1,31 @@
+Recent Research:
+
+ChatGPT and Google Gemini are Clinically Inadequate in Providing Recommendations on Management of Developmental Dysplasia of the Hip Compared to American Academy of Orthopaedic Surgeons Clinical Practice Guidelines.
+https://pubmed.ncbi.nlm.nih.gov/40433583/
+
+Modeling Precision Feedback Knowledge for Healthcare Professional Learning and Quality Improvement.
+https://pubmed.ncbi.nlm.nih.gov/40417586/
+
+Exploring Filipino Medical Students' Attitudes and Perceptions of Artificial Intelligence in Medical Education: A Mixed-Methods Study.
+https://pubmed.ncbi.nlm.nih.gov/40384805/
+
+Navigating the AI Revolution in Medicine-Adopting Strategies for Medical Education.
+https://pubmed.ncbi.nlm.nih.gov/40353035/
+
+Development of a machine learning model to classify polycystic ovarian syndrome.
+https://pubmed.ncbi.nlm.nih.gov/40331559/
+
+Advanced computational tools, artificial intelligence and machine-learning approaches in gut microbiota and biomarker identification.
+https://pubmed.ncbi.nlm.nih.gov/40303946/
+
+Update on the Role of Imaging in the Diagnosis, Staging, and Prognostication of Gallbladder Cancer.
+https://pubmed.ncbi.nlm.nih.gov/40297115/
+
+Radiologists' perceptions and readiness for integrating artificial intelligence in diagnostic imaging: A survey-based study.
+https://pubmed.ncbi.nlm.nih.gov/40230922/
+
+Current trends in pharmaceutical industry: Post -CoVid-19 pandemic effects.
+https://pubmed.ncbi.nlm.nih.gov/40230918/
+
+Heterogeneous Brain Atrophy Sites in Anxiety Disorders Map to a Common Brain Network.
+https://pubmed.ncbi.nlm.nih.gov/40226739/
